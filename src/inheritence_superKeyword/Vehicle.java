@@ -17,6 +17,7 @@ public class Vehicle {
 		System.out.println(name);
 		System.out.println(price);
 		System.out.println(color);
+		System.out.println("============");
 		
 	}
 	
