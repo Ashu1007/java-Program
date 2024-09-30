@@ -15,6 +15,7 @@ public class Employ {
 		System.out.println("Name is: "+name);
 		System.out.println("ID is: "+id);
 		System.out.println("Salary is: "+salary);
+		System.out.println("======================");
 	}
 
 }
